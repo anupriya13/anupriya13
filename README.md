@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anupriya13
-- 👀 I’m interested in Competitive Programming, Data Structures, Web Development, Computer Vision and largescale database
-- 🌱 I’m currently learning and working on React Native
+- 🌱 I’m currently working on React Native
 
 
 <p align="center">

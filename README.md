@@ -8,16 +8,7 @@
   <a href="https://git.io/streak-stats">
     <img src=https://streak-stats.demolab.com/?user=anupriya13&&theme=tokyonight&&hide_border=true&card_width=495>
   </a>
-   
   </br>
-  </br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anupriya13&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
-  
-  </br>
-  </br>
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anupriya13&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
   </a>

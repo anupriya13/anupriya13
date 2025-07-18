@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anupriya13
 - 🌱 I’m currently working on React Native
-
+- 👩🏻‍💻 Skilled in C++, React, JS, App Development and Web Development.
 
 <p align="center">
   </br>

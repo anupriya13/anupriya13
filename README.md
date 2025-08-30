@@ -11,12 +11,12 @@
   </br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anupriya13&hide_border=true&show_icons=true&theme=tokyonight&card_width=495" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anupriya13&show_icons=true&theme=tokyonight" width="49%" />
   </a>
   </br>  
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anupriya13&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupriya13&layout=compact&theme=tokyonight" width="49%" />
   </a>
 </p>
 
